@@ -11,7 +11,7 @@ _______________________________________________
  ### Funcionalidad Primaria
    <p> En primera estancia, la facilidad de gestión de clientes, con sus respectios historiales e incluso pagos.</p>
    
- ## Grupo Objetivo
+ #### Grupo Objetivo
   <p>
   Va dirigido al área de  administradores y/o gerentes de <b>empresas</b> para que modernicen la herramientas de trabajo en sus centros   de atención
     </p>
@@ -43,5 +43,5 @@ ________________________________
     
  ____________________________________
     
-##### Creamos algo que amen 100 personas.
+#### Creamos algo que amen 100 personas.
    <p> El objetivo de nuestra plataforma, es construir una comunidad integrada por empresas, gerentes o administradores, que comenten          sus anticuadas experiencias con otros servicios, y posteriormente el cambio en cuanto a funcionalidad/sencillez de nuestra              plataforma.</p>

@@ -41,5 +41,7 @@ ________________________________
  - Permitir el registro de usuarios.
     - El usuario puede ingresar y comprobar su historial de asistencias, cantidad de pagos (Fecha y cantidad).
     
-     **Creamos algo que amen 100 personas; no que 1000 personas quieran**
+ ____________________________________
+    
+## Creamos algo que amen 100 personas; no que 1000 personas quieran**
    <p> El objetivo de nuestra plataforma, es construir una comunidad integrada por empresas, gerentes o administradores, que comenten          sus anticuadas experiencias con otros servicios, y posteriormente el cambio en cuanto a funcionalidad/sencillez de nuestra              plataforma.</p>

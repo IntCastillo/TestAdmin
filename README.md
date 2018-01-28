@@ -4,14 +4,14 @@ Gestión de usuarios en área de servicio/producto venta.
 
 _______________________________________________
 
-# Acerca del proyecto
+## Acerca del proyecto
 <p> Una herramienta que <b>facilita</b> la gestión de clientes, registro de pagos y avance del pago. Además, podemos enviar recordatorios a los clientes de sus citas/controles. Con esto, se busca optimizar el tiempo y uso de papel y documentos en físico, ahorrando así perdidas de información del cliente.
   </p>
   
- ## Funcionalidad Primaria
+ ### Funcionalidad Primaria
    <p> En primera estancia, la facilidad de gestión de clientes, con sus respectios historiales e incluso pagos.</p>
    
-   **Grupo Objetivo**
+ ## Grupo Objetivo
   <p>
   Va dirigido al área de  administradores y/o gerentes de <b>empresas</b> para que modernicen la herramientas de trabajo en sus centros   de atención
     </p>
@@ -36,12 +36,12 @@ _______________________________________________
       
 ________________________________
    
-   # Funcionalidades adicionales por añadir
+   ### Funcionalidades adicionales por añadir
    
  - Permitir el registro de usuarios.
     - El usuario puede ingresar y comprobar su historial de asistencias, cantidad de pagos (Fecha y cantidad).
     
  ____________________________________
     
-## Creamos algo que amen 100 personas.
+##### Creamos algo que amen 100 personas.
    <p> El objetivo de nuestra plataforma, es construir una comunidad integrada por empresas, gerentes o administradores, que comenten          sus anticuadas experiencias con otros servicios, y posteriormente el cambio en cuanto a funcionalidad/sencillez de nuestra              plataforma.</p>

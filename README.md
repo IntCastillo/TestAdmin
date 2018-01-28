@@ -7,7 +7,8 @@ _______________________________________________
 # Acerca del proyecto
 <p> Una herramienta que <b>facilita</b> la gestión de clientes, registro de pagos y avance del pago. Además, podemos enviar recordatorios a los clientes de sus citas/controles. Con esto, se busca optimizar el tiempo y uso de papel y documentos en físico, ahorrando así perdidas de información del cliente.
   </p>
-  # Funcionalidad Primaria
+  
+ ## Funcionalidad Primaria
    <p> En primera estancia, la facilidad de gestión de clientes, con sus respectios historiales e incluso pagos.</p>
    
    **Grupo Objetivo**

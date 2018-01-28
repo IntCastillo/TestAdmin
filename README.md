@@ -1,4 +1,10 @@
 # TestAdmin
 
-Funcionalidad de todos los eventos para el control de todos los datos del usuario.
+Gestión de usuarios en área de servicio/producto venta.
+
+_______________________________________________
+
+# Acerca del proyecto
+
+
 

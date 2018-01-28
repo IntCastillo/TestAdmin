@@ -43,5 +43,5 @@ ________________________________
     
  ____________________________________
     
-## Creamos algo que amen 100 personas; no que 1000 personas quieran**
+## Creamos algo que amen 100 personas.
    <p> El objetivo de nuestra plataforma, es construir una comunidad integrada por empresas, gerentes o administradores, que comenten          sus anticuadas experiencias con otros servicios, y posteriormente el cambio en cuanto a funcionalidad/sencillez de nuestra              plataforma.</p>

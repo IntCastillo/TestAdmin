@@ -45,3 +45,12 @@ ________________________________
     
 #### Creamos algo que amen 100 personas.
    <p> El objetivo de nuestra plataforma, es construir una comunidad integrada por empresas, gerentes o administradores, que comenten          sus anticuadas experiencias con otros servicios, y posteriormente el cambio en cuanto a funcionalidad/sencillez de nuestra              plataforma.</p>
+   
+Must to Have: Funciones que le dan la esencia a nuestra aplicación y que son las principales de
+resolver la necesidad de nuestros usuarios)
+
+Should to Have: Funciones que nuestra aplicación deberían de llevar para que el uso de nuestra
+aplicación sea más coherente
+
+Nice to Have: Funciones que le darían ese ‘coolness’ a nuestra aplicación y que de no tenerlas no
+afectan la esencia de nuestra app

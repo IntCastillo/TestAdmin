@@ -45,3 +45,6 @@ ________________________________
     
 #### Creamos algo que amen 100 personas.
    <p> El objetivo de nuestra plataforma, es construir una comunidad integrada por empresas, gerentes o administradores, que comenten          sus anticuadas experiencias con otros servicios, y posteriormente el cambio en cuanto a funcionalidad/sencillez de nuestra              plataforma.</p>
+   
+#### Guia para tener en cuenta
+    <p>https://drive.google.com/file/d/11RtTjPst4aKpW0Q6SbSin4bJOvQuU6H4/view?usp=sharing</p>
